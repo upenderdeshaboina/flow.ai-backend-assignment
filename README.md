@@ -17,7 +17,7 @@ This project is a simple Expense Tracker Api built using Node.js, Express and SQ
 ### 1. Clone the repository
 
 - git clone https://github.com/upenderdeshaboina/flow.ai-backend-assignment.git
-- cd flow.ai-assignment
+- cd flow.ai-backend-assignment
 
 ### 2. Install Dependencies
 - npm install
