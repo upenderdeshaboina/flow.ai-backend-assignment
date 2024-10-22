@@ -47,7 +47,7 @@ All API requests should be made to:
 - Endpoint: /register
 - Method: POST
 -Description: Registers a new user
-- Request Body: { "name": "John Doe", "email": "john@example.com","password": "password123" }
+- Request Body: { "name": "upender", "password": "upender12" }
 - Responses:
 - 201: User registration successful.
 - 400: User already exists.
