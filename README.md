@@ -1,4 +1,4 @@
-# EXPENSE TRACKER
+# INCOME/EXPENSE TRACKER
 
 This project is a simple Expense Tracker Api built using Node.js, Express and SQLite.It allows users to register, log in , and manage their financial transactions (both income and expenses). Each user can add, view, update, delete and get summaries of their transactions.
 
